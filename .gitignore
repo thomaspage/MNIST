@@ -1,0 +1,22 @@
+
+*.csv
+Data/EMNIST/emnist-byclass-train-labels-idx1-ubyte
+Data/EMNIST/emnist-balanced-mapping.txt
+Data/EMNIST/emnist-balanced-test-images-idx3-ubyte
+Data/EMNIST/emnist-balanced-test-labels-idx1-ubyte
+Data/EMNIST/emnist-balanced-train-labels-idx1-ubyte
+Data/EMNIST/emnist-byclass-test-images-idx3-ubyte
+Data/EMNIST/emnist-bymerge-mapping.txt
+Data/EMNIST/emnist-bymerge-test-labels-idx1-ubyte
+Data/EMNIST/emnist-bymerge-train-images-idx3-ubyte
+Data/EMNIST/emnist-bymerge-test-images-idx3-ubyte
+Data/EMNIST/emnist-byclass-test-labels-idx1-ubyte
+Data/Original MNIST/.DS_Store
+Data/EMNIST/emnist-byclass-train-images-idx3-ubyte
+Data/EMNIST/emnist-byclass-mapping.txt
+Data/Original MNIST/t10k-images.idx3-ubyte
+Data/EMNIST/emnist-bymerge-train-labels-idx1-ubyte
+Data/EMNIST/emnist-balanced-train-images-idx3-ubyte
+Data/Original MNIST/train-images.idx3-ubyte
+Data/Original MNIST/train-labels.idx1-ubyte
+Data/Original MNIST/t10k-labels.idx1-ubyte
