@@ -17,8 +17,8 @@ K.set_image_dim_ordering('tf')
 
 batch_size = 64
 num_classes = 82
-epochs = 30
-zca = True
+epochs = 25
+zca = False
 data_aug = False
 
 def load_files():
@@ -136,7 +136,7 @@ model.add(Conv2D(128, (3,3), activation='relu'))
 model.add(MaxPooling2D(pool_size=(2, 2)))
 
 model.add(Conv2D(256, (3,3), activation='relu'))
-model.add(Conv2D(512, (3,3), activation='relu'))
+# model.add(Conv2D(512, (3,3), activation='relu'))
 model.add(MaxPooling2D(pool_size=(2,2)))
 
 model.add(Dropout(0.25))
